@@ -1,0 +1,1 @@
+<!-- Gerador de Tabuada Completa (for): Crie um algoritmo utilizando laços for para imprimir a tabuada do 3. -->

@@ -1,0 +1,1 @@
+<!-- Classificador de DDD (match): Crie uma variável com um DDD (ex: 11, 16, 19, 21). Usando a expressão match, retorne a região correspondente (ex: 19 → "Campinas/Região", 16 → "Ribeirão Preto/São Carlos/Porto Ferreira", etc.). -->

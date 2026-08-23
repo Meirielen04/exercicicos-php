@@ -1,0 +1,1 @@
+<!-- Menu de Comandos com Status (switch): Crie uma simulação de terminal que recebe comandos em texto (start, stop, restart, status) e exiba a ação correspondente no servidor. -->

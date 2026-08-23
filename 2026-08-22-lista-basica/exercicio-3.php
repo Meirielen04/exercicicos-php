@@ -1,0 +1,1 @@
+<!-- Fila Prioritária da Balsa (AND): Crie um script que receba a idade do motorista e o tempo de espera na fila em minutos. Utilize a estrutura if/else com o operador lógico && para verificar se o motorista tem 60 anos ou mais e se o tempo de espera é superior a 30 minutos, liberando ou não o acesso à fila prioritária de embarque. -->

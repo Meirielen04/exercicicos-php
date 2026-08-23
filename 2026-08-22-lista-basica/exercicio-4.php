@@ -1,0 +1,1 @@
+<!-- Aluguel de Carro Executivo (OR): Crie um script que receba a idade e a renda mensal de um cliente. Utilize a estrutura if/else com o operador lógico || para verificar se o cliente possui idade igual ou superior a 25 anos ou comprovação de renda acima de R$ 7.000,00, exibindo se a locação da categoria luxo foi autorizada. -->
