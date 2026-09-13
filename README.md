@@ -7,7 +7,7 @@ Repositório destinado a armazenar resoluções de listas de exercícios e proje
 As pastas estão organizadas por data e tema da lista de exercícios:
 
 * `2026-08-22-lista-basica/`: switch, for, match, and, or, aritmetico.
-* `[Próximas listas...]`
+* `2026-09-05-arrays/': arrays
 
 ## 🛠️ Tecnologias Utilizadas
 * PHP 8.x
